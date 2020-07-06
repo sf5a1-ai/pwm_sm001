@@ -3,6 +3,7 @@
 #	File name: stepMotor.py
 #	   Author: Jason Dai
 #	     Date: 2015/01/26
+#     2020-07-06
 #########################################################
 import RPi.GPIO as GPIO
 import time
